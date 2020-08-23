@@ -1,2 +1,4 @@
 How are you?
 I'm ok!
+Where are you from?
+I'm from England.
