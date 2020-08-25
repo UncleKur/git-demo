@@ -5,8 +5,3 @@ I'm from England.
 Two more lines
 Same times
 
-Another two lines
-For new Branch
-
-New commit 
-Feature branch
