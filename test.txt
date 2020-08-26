@@ -8,3 +8,7 @@ Same times
 
 Conflict lines
 from master branch
+
+two lines 
+from feature branch
+feature
