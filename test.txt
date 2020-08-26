@@ -5,3 +5,6 @@ I'm from England.
 Two more lines
 Same times
 
+
+Conflict lines
+from master branch
